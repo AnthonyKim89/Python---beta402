@@ -1,0 +1,34 @@
+Django>=1.8,<1.9
+django-multiupload
+markdown
+django-celery
+Pillow
+pygments
+pyPdf
+requests
+xmltodict
+djangorestframework
+drf-extensions
+furl
+django-mptt
+django-activity-stream
+git+https://github.com/C4ptainCrunch/libulb.git
+PyYaml
+jsonfield
+django-analytical
+django-pipeline
+PyReact
+django-js-reverse
+
+# Dev
+django-extensions
+ipython
+honcho
+
+# Test
+mock
+pytest-django
+responses
+django-webtest
+pytest-cov
+coveralls
